@@ -1,253 +1,267 @@
 {
   "items": [
     {
-      "description": "Github Repository: DeepRobust (https://github.com/DSE-MSU/DeepRobust)\nCorresponding paper: DeepRobust: A PyTorch Library for Adversarial Attacks and Defenses. [paper][documentation]",
-      "items": [],
-      "title": "0. Toolbox"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210014892,
+                "language": "Python",
+                "last_commit": "2025-06-26T02:36:41Z",
+                "owner": "DSE-MSU",
+                "repo": "DeepRobust",
+                "stars": 1084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fast Gradient Attack on Network Embedding. Jinyin Chen, Yangyang Wu, Xuanheng Xu, Yixian Chen, Haibin Zheng, Qi Xuan. arxiv 2018. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210014892,
+                "language": "Python",
+                "last_commit": "2025-06-26T02:36:41Z",
+                "owner": "DSE-MSU",
+                "repo": "DeepRobust",
+                "stars": 1084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Attacks on Neural Networks for Graph Data. Daniel Zügner, Amir Akbarnejad, Stephan Günnemann. KDD 2018. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135933649,
+                "language": "Python",
+                "last_commit": "2022-05-31T12:27:10Z",
+                "owner": "danielzuegner",
+                "repo": "nettack",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Attack on Graph Structured Data. Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song. ICML 2018. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137933237,
+                "language": "Python",
+                "last_commit": "2022-07-16T20:56:48Z",
+                "owner": "Hanjun-Dai",
+                "repo": "graph_adversarial_attack",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning. Aleksandar Bojchevski, Stephan Günnemann. ICML 2019. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186476486,
+                "language": "Python",
+                "last_commit": "2019-12-23T16:10:18Z",
+                "owner": "abojchevski",
+                "repo": "node_embedding_attack",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models. Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang. AAAI 2020. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228682621,
+                "language": "Python",
+                "last_commit": "2021-05-26T06:22:04Z",
+                "owner": "SwiftieH",
+                "repo": "GFAttack",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405956577,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-25T15:57:34Z",
+                "owner": "sigeisler",
+                "repo": "robustness_of_gnns_at_scale",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Are Defenses for Graph Neural Networks Robust? NeurIPS 2022. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561803148,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-17T16:22:06Z",
+                "owner": "LoadingByte",
+                "repo": "are-gnn-defenses-robust",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation. ICLR 2021. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306706979,
+                "language": "Python",
+                "last_commit": "2021-05-03T19:10:28Z",
+                "owner": "INK-USC",
+                "repo": "deceive-KG-models",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2.1 Targeted Attack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210014892,
+                "language": "Python",
+                "last_commit": "2025-06-26T02:36:41Z",
+                "owner": "DSE-MSU",
+                "repo": "DeepRobust",
+                "stars": 1084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Attacks on Graph Neural Networks via Meta Learning. Daniel Zugner, Stephan Gunnemann. ICLR 2019. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170546795,
+                "language": "Python",
+                "last_commit": "2021-12-09T14:44:50Z",
+                "owner": "danielzuegner",
+                "repo": "gnn-meta-attack",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective. Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin. IJCAI 2019. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200543800,
+                "language": "Python",
+                "last_commit": "2021-02-26T12:49:44Z",
+                "owner": "KaidiXu",
+                "repo": "GCN_ADV_Train",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning. Aleksandar Bojchevski, Stephan Günnemann. ICML 2019. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186476486,
+                "language": "Python",
+                "last_commit": "2019-12-23T16:10:18Z",
+                "owner": "abojchevski",
+                "repo": "node_embedding_attack",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405956577,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-25T15:57:34Z",
+                "owner": "sigeisler",
+                "repo": "robustness_of_gnns_at_scale",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Are Defenses for Graph Neural Networks Robust? NeurIPS 2022. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561803148,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-17T16:22:06Z",
+                "owner": "LoadingByte",
+                "repo": "are-gnn-defenses-robust",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards More Practical Adversarial Attacks on Graph Neural Networks. Jiaqi Ma, Shuangrui Ding, Qiaozhu Mei. NeurIPS 2020. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305300008,
+                "language": "Python",
+                "last_commit": "2021-11-13T07:15:32Z",
+                "owner": "Mark12Ding",
+                "repo": "GNN-Practical-Attack",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2.2 Untargeted Attack"
+        }
+      ],
       "title": "2. Attack Papers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-26T02:36:41Z",
-            "owner": "DSE-MSU",
-            "repo": "DeepRobust",
-            "stars": 1084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fast Gradient Attack on Network Embedding. Jinyin Chen, Yangyang Wu, Xuanheng Xu, Yixian Chen, Haibin Zheng, Qi Xuan. arxiv 2018. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-26T02:36:41Z",
-            "owner": "DSE-MSU",
-            "repo": "DeepRobust",
-            "stars": 1084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Attacks on Neural Networks for Graph Data. Daniel Zügner, Amir Akbarnejad, Stephan Günnemann. KDD 2018. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-05-31T12:27:10Z",
-            "owner": "danielzuegner",
-            "repo": "nettack",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Attack on Graph Structured Data. Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song. ICML 2018. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-16T20:56:48Z",
-            "owner": "Hanjun-Dai",
-            "repo": "graph_adversarial_attack",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning. Aleksandar Bojchevski, Stephan Günnemann. ICML 2019. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-12-23T16:10:18Z",
-            "owner": "abojchevski",
-            "repo": "node_embedding_attack",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models. Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang. AAAI 2020. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-26T06:22:04Z",
-            "owner": "SwiftieH",
-            "repo": "GFAttack",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-07-25T15:57:34Z",
-            "owner": "sigeisler",
-            "repo": "robustness_of_gnns_at_scale",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Are Defenses for Graph Neural Networks Robust? NeurIPS 2022. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-17T16:22:06Z",
-            "owner": "LoadingByte",
-            "repo": "are-gnn-defenses-robust",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation. ICLR 2021. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-03T19:10:28Z",
-            "owner": "INK-USC",
-            "repo": "deceive-KG-models",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "2.1 Targeted Attack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-26T02:36:41Z",
-            "owner": "DSE-MSU",
-            "repo": "DeepRobust",
-            "stars": 1084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Attacks on Graph Neural Networks via Meta Learning. Daniel Zugner, Stephan Gunnemann. ICLR 2019. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-09T14:44:50Z",
-            "owner": "danielzuegner",
-            "repo": "gnn-meta-attack",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective. Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin. IJCAI 2019. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-26T12:49:44Z",
-            "owner": "KaidiXu",
-            "repo": "GCN_ADV_Train",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning. Aleksandar Bojchevski, Stephan Günnemann. ICML 2019. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-12-23T16:10:18Z",
-            "owner": "abojchevski",
-            "repo": "node_embedding_attack",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-07-25T15:57:34Z",
-            "owner": "sigeisler",
-            "repo": "robustness_of_gnns_at_scale",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Are Defenses for Graph Neural Networks Robust? NeurIPS 2022. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-17T16:22:06Z",
-            "owner": "LoadingByte",
-            "repo": "are-gnn-defenses-robust",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards More Practical Adversarial Attacks on Graph Neural Networks. Jiaqi Ma, Shuangrui Ding, Qiaozhu Mei. NeurIPS 2020. [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-13T07:15:32Z",
-            "owner": "Mark12Ding",
-            "repo": "GNN-Practical-Attack",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "2.2 Untargeted Attack"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -256,6 +270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210014892,
             "language": "Python",
             "last_commit": "2025-06-26T02:36:41Z",
             "owner": "DSE-MSU",
@@ -270,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210014892,
             "language": "Python",
             "last_commit": "2025-06-26T02:36:41Z",
             "owner": "DSE-MSU",
@@ -284,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298462368,
             "language": "Python",
             "last_commit": "2024-07-17T14:47:54Z",
             "owner": "Shen-Lab",
@@ -298,6 +315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265676694,
             "language": "Python",
             "last_commit": "2023-05-12T16:28:36Z",
             "owner": "ChandlerBang",
@@ -312,6 +330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271432895,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-29T05:51:44Z",
             "owner": "snap-stanford",
@@ -326,6 +345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266555315,
             "language": "Python",
             "last_commit": "2020-11-17T23:54:42Z",
             "owner": "YingtongDou",
@@ -340,6 +360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606623259,
             "language": "Python",
             "last_commit": "2023-06-23T21:53:18Z",
             "owner": "ChandlerBang",
@@ -354,6 +375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200543800,
             "language": "Python",
             "last_commit": "2021-02-26T12:49:44Z",
             "owner": "KaidiXu",
@@ -368,6 +390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312951626,
             "language": "Python",
             "last_commit": "2021-03-11T16:40:35Z",
             "owner": "ChandlerBang",
@@ -382,6 +405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382989774,
             "language": "Python",
             "last_commit": "2021-07-25T20:42:19Z",
             "owner": "lxiaorui",
@@ -396,6 +420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 571646739,
             "language": "Python",
             "last_commit": "2023-10-01T02:41:27Z",
             "owner": "cornell-zhang",
@@ -410,6 +435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405956577,
             "language": "Jupyter Notebook",
             "last_commit": "2023-07-25T15:57:34Z",
             "owner": "sigeisler",
@@ -424,6 +450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304213912,
             "language": "Python",
             "last_commit": "2020-10-16T00:45:15Z",
             "owner": "ebonilla",
@@ -438,6 +465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307739496,
             "language": "Python",
             "last_commit": "2022-03-16T09:51:22Z",
             "owner": "sigeisler",
@@ -449,7 +477,7 @@
       "title": "3. Defense Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -458,6 +486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193091274,
             "language": "Jupyter Notebook",
             "last_commit": "2020-12-07T15:16:05Z",
             "owner": "danielzuegner",
@@ -472,6 +501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279950256,
             "language": "Python",
             "last_commit": "2023-06-27T11:21:35Z",
             "owner": "abojchevski",
@@ -486,6 +516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217859842,
             "language": "Jupyter Notebook",
             "last_commit": "2020-05-08T09:35:53Z",
             "owner": "abojchevski",
@@ -500,6 +531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271593766,
             "language": "Python",
             "last_commit": "2021-06-17T16:55:53Z",
             "owner": "RobustGraph",
@@ -514,6 +546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288494792,
             "language": "Python",
             "last_commit": "2020-12-01T10:46:10Z",
             "owner": "danielzuegner",
@@ -523,16 +556,12 @@
         }
       ],
       "title": "4. Certified Robustness Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Relevant Workshops"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:25:49.937Z",
+    "last_updated": "2026-08-19T12:33:28.479Z",
     "original_repository": "ChandlerBang/awesome-graph-attack-papers",
+    "original_repository_id": 201849410,
     "original_repository_sha": "4f9185dc53128a512ecea7a6b5dc0a1e3e7a733b",
     "enhanced_repository": "enhansome/enhansome-graph-attack-papers",
     "enhanced_repository_description": null,
