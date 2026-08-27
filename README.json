@@ -559,9 +559,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:33:51.377Z",
-    "original_repository": "ChandlerBang/awesome-graph-attack-papers",
-    "original_repository_id": 201849410,
+    "last_updated": "2026-08-27T11:40:39.210Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 201849410,
+      "language": null,
+      "last_commit": "2024-02-22T02:19:50Z",
+      "owner": "ChandlerBang",
+      "repo": "awesome-graph-attack-papers",
+      "stars": 395
+    },
     "original_repository_sha": "4f9185dc53128a512ecea7a6b5dc0a1e3e7a733b",
     "enhanced_repository": "enhansome/enhansome-graph-attack-papers",
     "enhanced_repository_description": null,
