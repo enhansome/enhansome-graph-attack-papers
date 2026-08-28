@@ -18,7 +18,8 @@
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
                 "stars": 1085
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
                 "stars": 1085
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "danielzuegner",
                 "repo": "nettack",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Hanjun-Dai",
                 "repo": "graph_adversarial_attack",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "abojchevski",
                 "repo": "node_embedding_attack",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "SwiftieH",
                 "repo": "GFAttack",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "sigeisler",
                 "repo": "robustness_of_gnns_at_scale",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "LoadingByte",
                 "repo": "are-gnn-defenses-robust",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "INK-USC",
                 "repo": "deceive-KG-models",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             }
           ],
           "description": null,
@@ -160,7 +169,8 @@
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
                 "stars": 1085
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "danielzuegner",
                 "repo": "gnn-meta-attack",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "KaidiXu",
                 "repo": "GCN_ADV_Train",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "abojchevski",
                 "repo": "node_embedding_attack",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "sigeisler",
                 "repo": "robustness_of_gnns_at_scale",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "LoadingByte",
                 "repo": "are-gnn-defenses-robust",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "Mark12Ding",
                 "repo": "GNN-Practical-Attack",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:31:51.862Z"
             }
           ],
           "description": null,
@@ -276,7 +292,8 @@
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
             "stars": 1085
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -291,7 +308,8 @@
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
             "stars": 1085
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -306,7 +324,8 @@
             "owner": "Shen-Lab",
             "repo": "GraphCL",
             "stars": 635
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -321,7 +340,8 @@
             "owner": "ChandlerBang",
             "repo": "Pro-GNN",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -336,7 +356,8 @@
             "owner": "snap-stanford",
             "repo": "GIB",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -351,7 +372,8 @@
             "owner": "YingtongDou",
             "repo": "Nash-Detect",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -366,7 +388,8 @@
             "owner": "ChandlerBang",
             "repo": "GTrans",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -381,7 +404,8 @@
             "owner": "KaidiXu",
             "repo": "GCN_ADV_Train",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -396,7 +420,8 @@
             "owner": "ChandlerBang",
             "repo": "SimP-GCN",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -411,7 +436,8 @@
             "owner": "lxiaorui",
             "repo": "ElasticGNN",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -426,7 +452,8 @@
             "owner": "cornell-zhang",
             "repo": "GARNET",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -441,7 +468,8 @@
             "owner": "sigeisler",
             "repo": "robustness_of_gnns_at_scale",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -456,7 +484,8 @@
             "owner": "ebonilla",
             "repo": "VGCN",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -471,7 +500,8 @@
             "owner": "sigeisler",
             "repo": "reliable_gnn_via_robust_aggregation",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         }
       ],
       "title": "3. Defense Papers"
@@ -492,7 +522,8 @@
             "owner": "danielzuegner",
             "repo": "robust-gcn",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -507,7 +538,8 @@
             "owner": "abojchevski",
             "repo": "sparse_smoothing",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -522,7 +554,8 @@
             "owner": "abojchevski",
             "repo": "graph_cert",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -537,7 +570,8 @@
             "owner": "RobustGraph",
             "repo": "RoboGraph",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         },
         {
           "node_type": "item",
@@ -552,14 +586,15 @@
             "owner": "danielzuegner",
             "repo": "robust-gcn-structure",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:31:51.862Z"
         }
       ],
       "title": "4. Certified Robustness Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:01:08.383Z",
+    "last_updated": "2026-08-28T14:31:51.862Z",
     "original_repository_info": {
       "archived": false,
       "id": 201849410,
