@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -52,7 +52,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -110,7 +110,7 @@
                 "open_issues": 9,
                 "owner": "Hanjun-Dai",
                 "repo": "graph_adversarial_attack",
-                "stars": 130,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:31:51.862Z"
@@ -247,7 +247,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -428,7 +428,7 @@
             "open_issues": 54,
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
-            "stars": 1086,
+            "stars": 1085,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -459,7 +459,7 @@
             "open_issues": 54,
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
-            "stars": 1086,
+            "stars": 1085,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:23:21.308Z",
+    "last_updated": "2026-09-09T07:31:56.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
