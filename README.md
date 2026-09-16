@@ -1,6 +1,6 @@
 # Awesome Graph Attack and Defense Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,172 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,499 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This repository aims to provide links to works about adversarial attacks and defenses on graph data or GNN (Graph Neural Networks).
@@ -130,7 +130,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
    *Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis.*  WSDM 2020. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371789?download=true) [\[code\]](https://github.com/DSE-MSU/DeepRobust/) ⭐ 1,085 | 🐛 54 | 🌐 Python | 📅 2025-06-26
 2. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**
    *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*   IJCAI 2019. [\[paper\]](https://arxiv.org/pdf/1903.01610.pdf) [\[code\]](https://github.com/DSE-MSU/DeepRobust) ⭐ 1,085 | 🐛 54 | 🌐 Python | 📅 2025-06-26
-3. **Graph Contrastive Learning with Augmentations.** NeurIPS 2020. [\[paper\]](https://arxiv.org/abs/2010.13902) [\[code\]](https://github.com/Shen-Lab/GraphCL) ⭐ 635 | 🐛 33 | 🌐 Python | 📅 2024-07-17
+3. **Graph Contrastive Learning with Augmentations.** NeurIPS 2020. [\[paper\]](https://arxiv.org/abs/2010.13902) [\[code\]](https://github.com/Shen-Lab/GraphCL) ⭐ 636 | 🐛 33 | 🌐 Python | 📅 2024-07-17
 4. **Graph Structure Learning for Robust Graph Neural Networks.**
    *Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*. KDD 2020. [\[paper\]](https://arxiv.org/abs/2005.10203) [\[code\]](https://github.com/ChandlerBang/Pro-GNN) ⭐ 310 | 🐛 10 | 🌐 Python | 📅 2023-05-12
 5. **Graph Information Bottleneck.** NeurIPS 2020. [\[paper\]](https://arxiv.org/abs/2010.12811) [\[code\]](https://github.com/snap-stanford/GIB) ⭐ 139 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-29
@@ -200,4 +200,4 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
