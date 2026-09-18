@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -52,7 +52,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -247,7 +247,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -428,7 +428,7 @@
             "open_issues": 54,
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
-            "stars": 1085,
+            "stars": 1086,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -459,7 +459,7 @@
             "open_issues": 54,
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
-            "stars": 1085,
+            "stars": 1086,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -490,7 +490,7 @@
             "open_issues": 33,
             "owner": "Shen-Lab",
             "repo": "GraphCL",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "contrastive-learning",
               "graph-neural-network",
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:56:16.094Z",
+    "last_updated": "2026-09-18T07:34:08.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
