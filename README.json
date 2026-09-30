@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:55:56.681Z",
+    "last_updated": "2026-09-30T08:54:53.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
@@ -920,7 +920,7 @@
       "open_issues": 3,
       "owner": "ChandlerBang",
       "repo": "awesome-graph-attack-papers",
-      "stars": 395,
+      "stars": 396,
       "topics": [
         "adversarial-attacks",
         "adversarial-examples",
