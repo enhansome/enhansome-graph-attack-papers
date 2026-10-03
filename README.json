@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
-              "description": "[code]",
+              "description": "DSE-MSU/DeepRobust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "Fast Gradient Attack on Network Embedding. Jinyin Chen, Yangyang Wu, Xuanheng Xu, Yixian Chen, Haibin Zheng, Qi Xuan. arxiv 2018. [paper]",
-              "description": "[code]",
+              "description": "DSE-MSU/DeepRobust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -70,7 +70,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Attacks on Neural Networks for Graph Data. Daniel Zügner, Amir Akbarnejad, Stephan Günnemann. KDD 2018. [paper]",
-              "description": "[code]",
+              "description": "danielzuegner/nettack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,7 +97,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Attack on Graph Structured Data. Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song. ICML 2018. [paper]",
-              "description": "[code]",
+              "description": "Hanjun-Dai/graph_adversarial_attack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -118,7 +118,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning. Aleksandar Bojchevski, Stephan Günnemann. ICML 2019. [paper]",
-              "description": "[code]",
+              "description": "abojchevski/node_embedding_attack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -139,7 +139,7 @@
             {
               "node_type": "item",
               "title": "A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models. Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang. AAAI 2020. [paper]",
-              "description": "[code]",
+              "description": "SwiftieH/GFAttack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -160,7 +160,7 @@
             {
               "node_type": "item",
               "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
-              "description": "[code]",
+              "description": "sigeisler/robustness_of_gnns_at_scale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "Are Defenses for Graph Neural Networks Robust? NeurIPS 2022. [paper]",
-              "description": "[code]",
+              "description": "LoadingByte/are-gnn-defenses-robust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation. ICLR 2021. [paper]",
-              "description": "[code]",
+              "description": "INK-USC/deceive-KG-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -234,7 +234,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
-              "description": "[code]",
+              "description": "DSE-MSU/DeepRobust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Attacks on Graph Neural Networks via Meta Learning. Daniel Zugner, Stephan Gunnemann. ICLR 2019. [paper]",
-              "description": "[code]",
+              "description": "danielzuegner/gnn-meta-attack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -295,7 +295,7 @@
             {
               "node_type": "item",
               "title": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective. Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin. IJCAI 2019. [paper]",
-              "description": "[code]",
+              "description": "KaidiXu/GCN_ADV_Train",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -316,7 +316,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning. Aleksandar Bojchevski, Stephan Günnemann. ICML 2019. [paper]",
-              "description": "[code]",
+              "description": "abojchevski/node_embedding_attack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
-              "description": "[code]",
+              "description": "sigeisler/robustness_of_gnns_at_scale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -358,7 +358,7 @@
             {
               "node_type": "item",
               "title": "Are Defenses for Graph Neural Networks Robust? NeurIPS 2022. [paper]",
-              "description": "[code]",
+              "description": "LoadingByte/are-gnn-defenses-robust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -383,7 +383,7 @@
             {
               "node_type": "item",
               "title": "Towards More Practical Adversarial Attacks on Graph Neural Networks. Jiaqi Ma, Shuangrui Ding, Qiaozhu Mei. NeurIPS 2020. [paper]",
-              "description": "[code]",
+              "description": "Mark12Ding/GNN-Practical-Attack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs. Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis. WSDM 2020. [paper]",
-          "description": "[code]",
+          "description": "DSE-MSU/DeepRobust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -446,7 +446,7 @@
         {
           "node_type": "item",
           "title": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense. Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu. IJCAI 2019. [paper]",
-          "description": "[code]",
+          "description": "DSE-MSU/DeepRobust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +477,7 @@
         {
           "node_type": "item",
           "title": "Graph Contrastive Learning with Augmentations. NeurIPS 2020. [paper]",
-          "description": "[code]",
+          "description": "Shen-Lab/GraphCL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -503,7 +503,7 @@
         {
           "node_type": "item",
           "title": "Graph Structure Learning for Robust Graph Neural Networks. Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang. KDD 2020. [paper]",
-          "description": "[code]",
+          "description": "ChandlerBang/Pro-GNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "Graph Information Bottleneck. NeurIPS 2020. [paper]",
-          "description": "[code]",
+          "description": "snap-stanford/GIB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +562,7 @@
         {
           "node_type": "item",
           "title": "Robust Detection of Adaptive Spammers by Nash Reinforcement Learning. KDD 2020. [paper]",
-          "description": "[code]",
+          "description": "YingtongDou/Nash-Detect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,7 +590,7 @@
         {
           "node_type": "item",
           "title": "Empowering Graph Representation Learning with Test-Time Graph Transformation. ICLR 2023 [paper]",
-          "description": "[code]",
+          "description": "ChandlerBang/GTrans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -619,7 +619,7 @@
         {
           "node_type": "item",
           "title": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective. Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin. IJCAI 2019. [paper]",
-          "description": "[code]",
+          "description": "KaidiXu/GCN_ADV_Train",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -640,7 +640,7 @@
         {
           "node_type": "item",
           "title": "Node Similarity Preserving Graph Convolutional Networks. WSDM 2021. [paper]",
-          "description": "[code]",
+          "description": "ChandlerBang/SimP-GCN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -668,7 +668,7 @@
         {
           "node_type": "item",
           "title": "Elastic Graph Neural Networks. ICML 2021. [paper]",
-          "description": "[code]",
+          "description": "lxiaorui/ElasticGNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -689,7 +689,7 @@
         {
           "node_type": "item",
           "title": "GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks. LoG 2022 [paper]",
-          "description": "[code]",
+          "description": "cornell-zhang/GARNET",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -715,7 +715,7 @@
         {
           "node_type": "item",
           "title": "Robustness of Graph Neural Networks at Scale. NeurIPS 2021. [paper]",
-          "description": "[code]",
+          "description": "sigeisler/robustness_of_gnns_at_scale",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -736,7 +736,7 @@
         {
           "node_type": "item",
           "title": "Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings. NeurIPS 2020. [paper]",
-          "description": "[code]",
+          "description": "ebonilla/VGCN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,7 +761,7 @@
         {
           "node_type": "item",
           "title": "Reliable Graph Neural Networks via Robust Aggregation. NeurIPS 2020. [paper]",
-          "description": "[code]",
+          "description": "sigeisler/reliable_gnn_via_robust_aggregation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -792,7 +792,7 @@
         {
           "node_type": "item",
           "title": "Certifiable Robustness and Robust Training for Graph Convolutional Networks. Daniel Zügner Stephan Günnemann. KDD 2019. [paper]",
-          "description": "[code]",
+          "description": "danielzuegner/robust-gcn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -818,7 +818,7 @@
         {
           "node_type": "item",
           "title": "Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing. ICML 2020. [paper]",
-          "description": "[code]",
+          "description": "abojchevski/sparse_smoothing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -839,7 +839,7 @@
         {
           "node_type": "item",
           "title": "Certifiable Robustness to Graph Perturbations. Aleksandar Bojchevski, Stephan Günnemann. NeurIPS 2019. [paper]",
-          "description": "[code]",
+          "description": "abojchevski/graph_cert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,7 +860,7 @@
         {
           "node_type": "item",
           "title": "Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks. NeurIPS 2020. [paper]",
-          "description": "[code]",
+          "description": "RobustGraph/RoboGraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -885,7 +885,7 @@
         {
           "node_type": "item",
           "title": "Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations. KDD 2020. [paper]",
-          "description": "[code]",
+          "description": "danielzuegner/robust-gcn-structure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:51:56.752Z",
+    "last_updated": "2026-10-03T04:46:12.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
