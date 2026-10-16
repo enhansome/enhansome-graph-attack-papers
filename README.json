@@ -516,7 +516,7 @@
             "open_issues": 10,
             "owner": "ChandlerBang",
             "repo": "Pro-GNN",
-            "stars": 310,
+            "stars": 309,
             "topics": [
               "adversarial-attacks",
               "attack-defense",
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:40:16.947Z",
+    "last_updated": "2026-10-16T07:27:23.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
