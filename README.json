@@ -490,7 +490,7 @@
             "open_issues": 33,
             "owner": "Shen-Lab",
             "repo": "GraphCL",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "contrastive-learning",
               "graph-neural-network",
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:22:39.307Z",
+    "last_updated": "2026-10-19T08:01:49.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
