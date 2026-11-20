@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -52,7 +52,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -247,7 +247,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -428,7 +428,7 @@
             "open_issues": 54,
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
-            "stars": 1083,
+            "stars": 1082,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -459,7 +459,7 @@
             "open_issues": 54,
             "owner": "DSE-MSU",
             "repo": "DeepRobust",
-            "stars": 1083,
+            "stars": 1082,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:40:20.087Z",
+    "last_updated": "2026-11-20T10:20:40.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Adversarial attacks and defenses on Graph Neural Networks.",
